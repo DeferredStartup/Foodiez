@@ -1,0 +1,115 @@
+<mockup version="1.0" skin="sketch" measuredW="1723" measuredH="1305" mockupW="1192" mockupH="1135">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="864" y="375" w="500" h="735" measuredW="429" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CTranding%20Foodiez%26bm%3BTranding%20Foodiez.bmml%26bm%3BTranding%20Foodiez.bmml%26bm%3BTranding%20Foodiez.bmml%2COffers@Foodiez%26bm%3BOffers@Foodiez.bmml%26bm%3BOffers@Foodiez.bmml%26bm%3BOffers@Foodiez.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22470%2C215%2C584%2C244%22%20href%3D%22Tranding%20Foodiez.bmml%22%20alt%3D%22Tranding%20Foodiez%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22584%2C215%2C698%2C244%22%20href%3D%22Offers@Foodiez.bmml%22%20alt%3D%22Offers@Foodiez%22%20id%3D%220_1%22/%3E%0A</map>
+        <selectedIndex>0</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Search%20Foodiez%2C%20Trending%20Foodiez%2C%20Offers@Foodiez</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhone" x="521" y="160" w="1192" h="1135" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="1069" y="1032" w="-1" h="-1" measuredW="94" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Csmall</icon>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="991" y="971" w="-1" h="-1" measuredW="12" measuredH="20" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>%24</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="1208" y="972" w="31" h="17" measuredW="33" measuredH="20" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>%24%24%24%24</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::TextInput" x="1161" y="491" w="112" h="-1" measuredW="112" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Royal%20Rajasthan</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="925" y="608" w="378" h="69" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::RadioButton" x="940" y="631" w="174" h="22" measuredW="174" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20me%20foodiez%20near...</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::ComboBox" x="1177" y="629" w="90" h="-1" measuredW="88" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Place</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Canvas" x="925" y="752" w="378" h="69" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::RadioButton" x="940" y="775" w="174" h="22" measuredW="147" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>I%20wanna%20eat%20umm...</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::ComboBox" x="1177" y="775" w="90" h="-1" measuredW="75" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cuisine</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::RadioButton" x="935" y="495" w="205" h="22" measuredW="205" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>I%20know%20Foodiez%20name.%20It%27s...</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Canvas" x="925" y="472" w="378" h="69" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Switch" x="1142" y="914" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <onOffState>on</onOffState>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="__group__" x="979" y="893" w="270" h="104" measuredW="270" measuredH="104" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="21" y="21" w="105" h="25" measuredW="105" measuredH="25" zOrder="0" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Money%20matters%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="26" controlTypeID="__group__" x="0" y="0" w="270" h="104" measuredW="270" measuredH="104" zOrder="1" locked="false" isInGroup="27">
+          <groupChildrenDescriptors>
+            <control controlID="24" controlTypeID="com.balsamiq.mockups::HSlider" x="15" y="67" w="239" h="-1" measuredW="33" measuredH="11" zOrder="0" locked="false" isInGroup="26">
+              <controlProperties>
+                <value>50</value>
+              </controlProperties>
+            </control>
+            <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="270" h="104" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="26">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderStyle>roundedSolid</borderStyle>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
